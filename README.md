@@ -1,3 +1,7 @@
+## Parcours francais
+
+Une lecture guidee de Groth16 est disponible dans docs/fr/README.md.
+
 <h1 align="center">ark-groth16</h1>
 
 <p align="center">
